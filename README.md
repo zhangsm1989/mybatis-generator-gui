@@ -55,4 +55,4 @@ Eclipse or IntelliJ IDEA中启动, 找到MainUI类并运行就可以了
 ------
 Licensed under the Apache 2.0 License
 
-Copyright 2016 by Owen Zou
+Copyright 2016 by Owen Zou ...
